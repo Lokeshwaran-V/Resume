@@ -1,0 +1,75 @@
+﻿LOKESHWARAN V
+Linkedin
+	Naukri
+	Github
+	
+
+	Chennai, Tamil Nadu
+(+91) 8680075698
+sudhavenkat.lokesh@gmail.com
+	I possess an aggregate professional experience of 2 years and 8 months at Jasmin Infotech Pvt Ltd, wherein I served as a Test Engineer specialized in developing Automation Testing framework using Python.
+PROFESSIONAL EXPERIENCE 
+Sidepash (Chennai)                                                MARCH 2023 - AUGUST 2023
+Intern – Back-end Developer
+* Employed Java in conjunction with MySQL to retrieve and insert data into the database.
+* Acquired the skill of utilizing Servlets as an API to fetch data from a database and present it on the web interface.
+* Gained a comprehensive understanding of the Apache Log4j 2 logging framework.
+* Engaged in theoretical exploration of Microservices and Serverless computing.
+
+
+Jasmin Infotech Pvt Ltd (Chennai) - Test Engineer                JUNE 2019 - JANUARY 2022        Project 2 – QSC MANUAL 
+* Automated the manual testing and the project successfully achieved a 50% improvement in work efficiency. 
+* Developed Python code for GUI testing of 2 desktop and 1 web applications using agile methodologies.
+* Spearheaded the implementation of unit testing and regression testing procedures, validating GUI functionalities for over 100 test cases for 3 software applications ensuring software quality across multiple releases.
+* Streamlined the testing process by integrating a Python testing framework, resulting in a 50% increase in test coverage.
+* Reducing 70% of  testing time and ensuring the delivery of high-quality software applications.
+
+
+
+
+
+
+
+
+
+
+
+
+Project 1 – QSC CINEMA 
+* Designed and implemented software testing process by creating a Python-based Web Automation framework; remotely verified functionality of web-controlled devices, resulting in a reduced manual verification time by 60%.
+* Implemented automation testing using Python and Selenium, achieved a 30% improvement in efficiency and reduced testing time by up to 20%.
+* Understanding the operations of the web application, created 40 test cases, and developed a program for automated execution.
+* Validated web application functionalities through unit testing, stress testing, and performance testing. 
+* Investigated and rectified critical issues impacting user experience, resulting in a 40% decrease in user complaints and a 25% increase in client satisfaction ratings.
+
+
+EDUCATION
+Alpha College of Engineering, Chennai                                       OCTOBER 2021 - PRESENT
+B.E Computer Science Engineering with 7.87 CGPA (Till 6th semester) 
+Central Polytechnic College, Chennai                                        JUNE 2016 - MAY 2019 
+Diploma in Electrical and Electronic Engineering — 74.18% 
+SKILLS 
+* Python                ⚫⚫⚫⚫⚪
+* Pyautogui                ⚫⚫⚫⚫⚪
+* Selenium                 ⚫⚫⚫⚫⚪
+* HTML/CSS/JS                ⚫⚫⚫⚪⚪
+* React Js                ⚫⚫⚪⚪⚪
+* Java                        ⚫⚫⚪⚪⚪
+* Servlet                 ⚫⚫⚪⚪⚪
+* JDBC                        ⚫⚫⚪⚪⚪
+* MySQL                 ⚫⚫⚪⚪⚪
+Tools Expertise 
+* Pycharm IDE
+* Eclipse IDE
+* Visual Studio code
+* MySQL Workbench
+
+
+Declaration  
+I hereby declare that all the above details are true and known to the best of my knowledge.  
+
+
+
+
+Data:                                                                                Signature  
+Place:        Chennai                                                                (Lokeshwaran V)
